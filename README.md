@@ -10,6 +10,9 @@ The datasets can be found at the end of README:)
 - Colab Notebook:
   - [Train](https://colab.research.google.com/drive/1yyUMWPuu-k1BIuILX0NR5HO7TduYkMxe?usp=sharing)
   - [Inference](https://colab.research.google.com/drive/14BJ5yvv6qVWNWOaf9bG47Bj9jdNOZyxt?usp=sharing)
+- Models:
+  - Shiki Natsume: [checkpoint_5000](https://drive.google.com/file/d/1-GLC0t-kVwHczyxH_Mh56aGGWAUPt4Fd/view?usp=sharing)
+  - Shiki Natsume: [checkpoint_9000](https://drive.google.com/file/d/1-Y0yutBI2b-jhLEsx_e8eeLf8F59pvi7/view?usp=sharing)
 
 **2. VITS Stella TTS**
 
@@ -30,7 +33,7 @@ The datasets can be found at the end of README:)
 ## Datasets
 **1. StellaSpeech**
 
-a Japanese multi-speaker dataset collected from the visual novel [Café Stella and the Reaper's Butterflies](http://www.yuzu-soft.com/products/stella/index.html).
+A Japanese multi-speaker dataset collected from the visual novel [Café Stella and the Reaper's Butterflies](http://www.yuzu-soft.com/products/stella/index.html).
 
 **2. SenRenSpeech**
 
