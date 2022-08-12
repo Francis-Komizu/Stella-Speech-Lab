@@ -18,6 +18,11 @@ The datasets can be found at the end of README:)
 
 - Repo: [VITS](https://github.com/Francis-Komizu/VITS)
 - Dataset: StellaSpeech
+- Colab Notebook:
+  - [Train](https://colab.research.google.com/drive/1n_fni17le54p80XdCTanLyIfY17TIh4f?usp=sharing)
+  - [Inference](https://colab.research.google.com/drive/1HOLj0FfEb2Zf2yLj9IdpfMdpNj1DBKN8?usp=sharing)
+- Models
+  - [140 epochs](https://drive.google.com/file/d/1--JYQR4dgJIFiC9qe-8cGh0YxW1QCm94/view?usp=sharing)
 
 ## Voice Conversion (VC)
 **1. StarGAN Japanese VC**
