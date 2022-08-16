@@ -1,4 +1,4 @@
-# Stella-Speech-Lab
+# Stella Speech Lab
 A collection of all my projects related to speech.
 The datasets can be found at the end of README:)
 
